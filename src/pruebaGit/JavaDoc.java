@@ -17,6 +17,15 @@ public class JavaDoc {
 	 * @return
 	 */
 	public boolean nombreMetodo(int var1,boolean var2) {
+		System.out.println("comiteando");
+		return false;
+	}
+	/**
+	 * 
+	 * @return
+	 */
+	public boolean name() {
+		System.out.println("recommit");
 		return false;
 	}
 	
