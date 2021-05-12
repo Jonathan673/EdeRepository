@@ -25,7 +25,6 @@ public class JavaDoc {
 	 * @return
 	 */
 	public boolean name() {
-		System.out.println("recommit");
 		return false;
 	}
 	
